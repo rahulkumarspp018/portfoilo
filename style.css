@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url("image/bgm.jpg") no-repeat center center/cover;
+    background: url("bgm.jpg") no-repeat center center/cover;
     height:100vh;
     display:flex;
     justify-content:center;
@@ -75,4 +75,5 @@ body{
 
   
   
+
   
